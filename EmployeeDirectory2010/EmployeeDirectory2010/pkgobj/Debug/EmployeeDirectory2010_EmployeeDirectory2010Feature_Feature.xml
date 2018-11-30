@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="EmployeeDirectory2010Feature by Tarav Technologies" Id="dee84762-406e-41c4-862a-e4f53845ad3e" Scope="Site" Title="EmployeeDirectory2010 Feature">
+  <ElementManifests>
+    <ElementManifest Location="EmployeeDirectory2010WebPart\Elements.xml" />
+    <ElementFile Location="EmployeeDirectory2010WebPart\EmployeeDirectory2010WebPart.webpart" />
+  </ElementManifests>
+</Feature>

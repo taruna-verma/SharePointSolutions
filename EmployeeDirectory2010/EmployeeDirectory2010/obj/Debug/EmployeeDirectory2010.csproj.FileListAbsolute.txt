@@ -1,0 +1,4 @@
+C:\Projects Backup\EmployeeDirectory2010\EmployeeDirectory2010\bin\Debug\EmployeeDirectory2010.dll
+C:\Projects Backup\EmployeeDirectory2010\EmployeeDirectory2010\bin\Debug\EmployeeDirectory2010.pdb
+C:\Projects Backup\EmployeeDirectory2010\EmployeeDirectory2010\obj\Debug\EmployeeDirectory2010.dll
+C:\Projects Backup\EmployeeDirectory2010\EmployeeDirectory2010\obj\Debug\EmployeeDirectory2010.pdb

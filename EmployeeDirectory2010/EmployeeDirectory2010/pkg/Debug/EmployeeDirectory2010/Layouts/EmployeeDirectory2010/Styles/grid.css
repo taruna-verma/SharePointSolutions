@@ -1,0 +1,46 @@
+﻿.GridViewHeaderStyle {
+background-color:#c3dde0;
+border-width: 1px;
+padding: 8px;
+border-style: solid;
+border-color: #a9c6c9;
+} 
+
+.GridViewAltRowStyle
+{
+background-color: #F0F8FF;
+font-weight: bold;
+color: black;
+} 
+
+.GridRowStyle
+{
+background-color: #E6E6FA;
+font-weight: bold;
+color: black;
+} 
+
+.GridViewAltRowStyle:hover, .GridRowStyle:hover
+{
+background-color: yellow;
+color: black;
+font-weight: bold;
+}
+
+.spgridview-th
+{
+    background-color:#e60004;
+    color: Blue!important;
+    background-image:none;
+}
+
+.spgridview-td
+{
+    border-bottom-style: solid ;
+    border-bottom-width: 1px ;
+    border-bottom-color: #e60004 ;
+}
+
+.spgridview-td-alternating
+{
+}

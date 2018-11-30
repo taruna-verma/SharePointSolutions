@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="EmployeeDirectory2010WebPart" List="113" Url="_catalogs/wp">
+    <File Path="EmployeeDirectory2010WebPart\EmployeeDirectory2010WebPart.webpart" Url="EmployeeDirectory2010WebPart.webpart" Type="GhostableInLibrary">
+      <Property Name="Group" Value="Tarav Technologies" />
+    </File>
+  </Module>
+</Elements>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="EmployeeDirectory2010.EmployeeDirectory2010WebPart.EmployeeDirectory2010WebPart, EmployeeDirectory2010, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f33c0f2245117b60" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">EmployeeDirectory2010WebPart</property>
+        <property name="Description" type="string">My WebPart</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

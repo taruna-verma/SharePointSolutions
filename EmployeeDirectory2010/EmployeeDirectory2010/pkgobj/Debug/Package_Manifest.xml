@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="7113f956-73d8-4d72-98c2-a1a567e95942" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="EmployeeDirectory2010.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="EmployeeDirectory2010, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f33c0f2245117b60" Namespace="EmployeeDirectory2010.EmployeeDirectory2010WebPart" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Images\EmployeeDirectory2010\no_image.gif" />
+    <TemplateFile Location="Layouts\EmployeeDirectory2010\Styles\grid.css" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="EmployeeDirectory2010_EmployeeDirectory2010Feature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

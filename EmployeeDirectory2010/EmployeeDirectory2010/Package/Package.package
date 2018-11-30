@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="7113f956-73d8-4d72-98c2-a1a567e95942" solutionId="7113f956-73d8-4d72-98c2-a1a567e95942" resetWebServer="false" name="EmployeeDirectory2010" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="3fbdc339-d541-4fe0-b083-2431f8075bf5" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="0c2674ca-1e2f-4b37-a28a-90d4e17451d5" />
+    <projectItemReference itemId="bd7d4ff1-a2cb-4e50-ad6e-ad417fbc6077" />
+  </projectItems>
+</package>
